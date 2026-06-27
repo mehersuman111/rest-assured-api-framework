@@ -1,4 +1,4 @@
-package banking.login;
+package banking.authentication.forgotpassword;
 
 import io.restassured.response.Response;
 import models.banking.request.authentication.LoginRequest;
